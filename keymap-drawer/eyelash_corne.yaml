@@ -210,8 +210,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - BT CLR ALL
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - OUT USB
+  - RGB SPI
   - RGB SAD
   - RGB SAI
   - RGB BRD
@@ -225,8 +225,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+  - OUT BLE
   - RGB SPD
-  - RGB SPI
   - RGB BRD
   - RGB HUI
   - RGB EFR
