@@ -26,6 +26,12 @@
     trigger-period-ms = <16>;
 };
 
+&lt {
+    tapping-term-ms = <300>;
+    require-prior-idle-ms = <150>;
+    quick-tap-ms = <200>;
+};
+
 / {
     behaviors {
         td0: td0 {
